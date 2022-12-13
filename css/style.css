@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgba(224, 224, 224, 0.637);
+}
+#contenedor
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.accordion
+{
+    padding: 5%;
+    width: 80%;
+}
+
+#tbl
+{
+    padding: 5%;
+    width: 80%;
+}
+
+#carousel
+{
+    padding: 5%;
+    width: 50%;
+    height: 50%;
+}
